@@ -743,7 +743,7 @@ async def play(_, message: Message):
 
                               await lel.edit(
 
-                                  "<b>@musiqo_Assistant has joined the chat</b>",
+                                  "<b>@tz_inaya has joined the chat</b>",
 
                               )
 
@@ -757,9 +757,9 @@ async def play(_, message: Message):
 
                               await lel.edit(
 
-                                  f"<b>Flood wait timeout \nUser {user.first_name} flooding request userbot cant join group, check @LovishMusic_bot banned here or contact support @tubots"
+                                  f"<b>Flood wait timeout \nUser {user.first_name} flooding request userbot cant join group, check @tz_inaya banned here or contact support @tzkid"
 
-                                  "<b>dev says  add @musiqo_Assistant and try again</b>",
+                                  "<b>dev says  add @tz_inaya and try again</b>",
 
                               )
 
@@ -775,7 +775,7 @@ async def play(_, message: Message):
 
         await lel.edit(
 
-            f"<i> @musiqo_Assistant assistant is not in the chat, ask admin to send /play command for add assistant manually.</i>"
+            f"<i> @tz_inaya assistant is not in the chat, ask admin to send /play command for add assistant manually.</i>"
 
         )
 
