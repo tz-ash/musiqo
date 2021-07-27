@@ -93,7 +93,7 @@ async def source(client: Client, message: Message):
                         "github repo", url="https://github.com/tz-ash/musiqo"
                     ),
                     InlineKeyboardButton(
-                        "string generator", url="https://replit.com/@tzkid/KidzStringSession"
+                        "string generator", url="https://replit.com/@tzkid/KidzStringSession?v=1"
                     )
                 ]
             ]
