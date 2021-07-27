@@ -26,7 +26,7 @@ and Join [support](https://t.me/tzkid) to know about this bot
             [
                 [
                     InlineKeyboardButton(
-                        "COMMANDS", url="https://telegra.ph/𝚖𝚞𝚜𝚒𝚚𝚘-Sᴏɴɢ-06-09",
+                        "COMMANDS", url="https://telegra.ph/INAYA-MUSIC-07-27",
                     )
                 ],
                 [
