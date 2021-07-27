@@ -34,12 +34,12 @@ async def addchannel(client, message):
     except Exception as e:
         print(e)
         await message.reply_text(
-            f"<b>Flood wait time out {user.first_name} try adding @musiqo_Assistant manually if cant.contact @tubots."
-            "<b>Try adding @musiqo_Assistant manually</b>",
+            f"<b>Flood wait time out {user.first_name} try adding @tz_inaya manually if cant.contact @tzkid."
+            "<b>Try adding @tz_inaya manually</b>",
         )
         return
     await message.reply_text(
-            "<b>@Musiqo_Assistant joined </b>",
+            "<b>@tz_inaya joined </b>",
         )
     
 @USER.on_message(filters.group & filters.command(["userbotleave"]))
@@ -48,7 +48,7 @@ async def rem(USER, message):
         await USER.leave_chat(message.chat.id)
     except:  
         await message.reply_text(
-            f"<b>Contact support @unitedbotsupport</b>."
+            f"<b>Contact support @tzkid</b>."
             "<b>....</b>",
         )
         return
